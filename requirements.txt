@@ -1,0 +1,4 @@
+### requirements.txt
+scapy
+python-nmap
+rich
